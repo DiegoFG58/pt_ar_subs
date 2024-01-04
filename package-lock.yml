@@ -1,0 +1,4 @@
+packages:
+- git: https://github.com/DiegoFG58/passwap_ar
+  revision: 225e8ba7b7399c1b8205aa670785f73b99dee567
+sha1_hash: 896c8ca04e17ba17cf2e68e8cececf4633daae82

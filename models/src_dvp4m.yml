@@ -1,0 +1,18 @@
+version : 2
+
+sources:
+  - name: dvp4m
+    database: PROD_RAW_DATA_REPOSITORY
+    schema: DVP4M
+    tables:
+      - name: SUBSCRIPTIONS
+        description: "referential of SUBSCRIPTIONS"
+      - name: OPERATIONS
+        description: "referential of OPERATIONS"
+      - name: USERS
+  - name: tracking
+    database: PROD_RAW_DATA_REPOSITORY
+    schema: PUBLIC
+    tables:
+      - name: REF_AD_ALL
+        description: "referential of REF_AD_ALL"

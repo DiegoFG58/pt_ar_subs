@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/DiegoFG58/passwap_ar"
+    revision: "main"
